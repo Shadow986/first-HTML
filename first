@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Web D</title>
+    </head>
+    <body>
+        <h1>Welcome to development page</h1>
+        <h2>Welcome to learn how to code?</h2>
+        <h3>Then this is the right place</h3>
+        <h4>Lets get started</h4>
+        <p>if you want to learn how to code then the is
+            no better place than Web D <br>web D is the <b>best</b> place to learn</p>
+
+            <br>
+            <hr>
+
+            <p>Also, join our email list to get awesome <em>FREE</em> stuff!</p>
+    </body>
+</html>
